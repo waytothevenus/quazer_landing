@@ -1,0 +1,5 @@
+.relative:focus {
+  outline: none; /* Remove default focus outline */
+  box-shadow: 0 0 3px 2px rgba(0, 0, 255, 0.5); /* Add a blue shadow when focused */
+  background-color: "transparent";
+}
